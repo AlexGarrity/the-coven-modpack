@@ -140,34 +140,34 @@
             "fileSize": 118746
         },
         {
-            "path": "mods/iris-mc1.18.2-1.3.1.jar",
+            "path": "mods/iris-mc1.18.2-1.4.0.jar",
             "hashes": {
-                "sha1": "5b16d4e32f16f6bbb6291a3805096ed362da1d92",
-                "sha512": "cf33f8e01f2fc8c7587e4930427143e8a1856ee895e80e8416e9afd192bfd871b1f58a5cc52a689e95bff84d712fac41afd1de633d27d6b933d5759f57b84a89"
+                "sha1": "85580ef71ce123d7333e94539aa1a2c55010565b",
+                "sha512": "813dce353ff251f0986ed61bcdf7509b0081311b1e8ffdcae8d39e3607c27cecd1d07df54a745895e4559f6fa7ed2f9c888c61ae96a0807594428c5d9d1e7d0a"
             },
             "env": {
                 "client": "required",
                 "server": "unsupported"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/nnr56Joh/iris-mc1.18.2-1.3.1.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/1BCkW8RE/iris-mc1.18.2-1.4.0.jar"
             ],
-            "fileSize": 1566097
+            "fileSize": 2609760
         },
         {
-            "path": "mods/journeymap-1.18.2-5.8.4-fabric.jar",
+            "path": "mods/journeymap-1.18.2-5.8.5-fabric.jar",
             "hashes": {
-                "sha1": "deba35f4e533ee4231f7378a2eea2b3665598679",
-                "sha512": "819b3197eb695a58731b6df746261e505595fe5f238bd3d9397f60823abbb59799bc47f2a02ad5346ef1e86834d0440729100844162dbdffc25e898d60ebfecb"
+                "sha1": "17916cebd051a543995db098c92ba86edc52d357",
+                "sha512": "bb67f5d2b17752d71333716179a80bc455230425ca15f4eed65b564907e99da1dba5093f83d41ab65a287576be5b82a501609d7e7d1aa173eeb441ad1e34df94"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/lfHFW1mp/versions/5.8.4+fabric-1.18.2/journeymap-1.18.2-5.8.4-fabric.jar"
+                "https://cdn.modrinth.com/data/lfHFW1mp/versions/1.18.2-5.8.5-fabric/journeymap-1.18.2-5.8.5-fabric.jar"
             ],
-            "fileSize": 7320187
+            "fileSize": 7321295
         },
         {
             "path": "mods/krypton-0.1.9.jar",
@@ -367,6 +367,6 @@
     ],
     "dependencies": {
         "minecraft": "1.18.2",
-        "quilt-loader": "0.17.5-beta.3"
+        "quilt-loader": "0.17.5-beta.9"
     }
 }
